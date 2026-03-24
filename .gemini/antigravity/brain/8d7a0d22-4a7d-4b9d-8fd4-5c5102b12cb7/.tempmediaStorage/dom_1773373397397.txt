@@ -1,0 +1,88 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,44)<a href='/' />
+	[1] (66,44)<img  />
+[2] (672,44)<a href='/' />
+	[3] (672,44)<span >Home />
+[4] (729,44)<a href='/focus' />
+	[5] (729,44)<span >Focus />
+[6] (786,44)<a href='/team' />
+	[7] (786,44)<span >Team />
+[8] (849,44)<a href='/portfolio' />
+	[9] (849,44)<span >Portfolio />
+[10] (933,44)<a href='/contact' />
+	[11] (933,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+Investing in the Future
+World-changing technologies accelerating planetary and human health.
+[12] (93,299)<a class='group block' href='#' />
+	[13] (93,299)<div  />
+		[14] (93,244)<div  />
+			[15] (93,244)<span  />
+				[16] (93,244)<span >K />
+		[17] (93,399)<div  />
+			[18] (93,375)<h3 >Krosslinker />
+			[19] (93,414)<p >Advanced aerogel insulation materials for sustainable construction and cold chain logistics. />
+[20] (253,299)<a class='group block' href='#' />
+	[21] (253,299)<div  />
+		[22] (253,244)<div  />
+			[23] (253,244)<span  />
+				[24] (253,244)<span >N />
+		[25] (253,399)<div  />
+			[26] (253,375)<h3 >Nabaco />
+			[27] (253,414)<p >Revolutionary coatings that extend the shelf life of fresh produce, significantly reducing food wast />
+[28] (414,299)<a class='group block' href='#' />
+	[29] (414,299)<div  />
+		[30] (414,244)<div  />
+			[31] (414,244)<span  />
+				[32] (414,244)<span >NF />
+		[33] (414,399)<div  />
+			[34] (414,375)<h3 >Novel Farms />
+			[35] (414,414)<p >Scaling the production of structured cultivated meat using advanced scaffolding and cell-culture tec />
+[36] (574,299)<a class='group block' href='#' />
+	[37] (574,299)<div  />
+		[38] (574,244)<div  />
+			[39] (574,244)<span  />
+				[40] (574,244)<span >M />
+		[41] (574,399)<div  />
+			[42] (574,375)<h3 >MEDiC />
+			[43] (574,414)<p >AI-powered drug discovery platform focused on identifying novel targets for complex diseases. />
+[44] (735,299)<a class='group block' href='#' />
+	[45] (735,299)<div  />
+		[46] (735,244)<div  />
+			[47] (735,244)<span  />
+				[48] (735,244)<span >CH />
+		[49] (735,399)<div  />
+			[50] (735,375)<h3 >Craft Health />
+			[51] (735,414)<p >3D printing platform for personalized nutrition and clinical trials. />
+[52] (895,299)<a class='group block' href='#' />
+	[53] (895,299)<div  />
+		[54] (895,244)<div  />
+			[55] (895,244)<span  />
+				[56] (895,244)<span >AB />
+		[57] (895,399)<div  />
+			[58] (895,375)<h3 >Abalone Bio />
+			[59] (895,414)<p >Functional antibody discovery for complex membrane protein targets. />
+[60] (436,507)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 border [border-color:var(--button-outline)] shadow-xs active:shadow-none h-8 w-8 rounded-full -left-12 top-1/2 static translate-x-0 translate-y-0'>Previous slide />
+	Previous slide
+[61] (552,507)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 border [border-color:var(--button-outline)] shadow-xs active:shadow-none h-8 w-8 rounded-full -right-12 top-1/2 static translate-x-0 translate-y-0'>Next slide />
+	Next slide
+[62] (494,597)<a href='/portfolio' />
+	[63] (494,598)<button class='inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 border [border-color:var(--button-outline)] shadow-xs active:shadow-none min-h-9 px-4 py-2 gap-2'>View Full Portfolio />
+[64] (247,851)<a href='/' />
+	[65] (66,851)<img  />
+Creating a cleaner and healthier future through the power of deeptech. We invest in visionary founders developing world-changing technologies.
+Quick Links
+[66] (540,886)<a href='/focus' />
+	[67] (540,886)<span >Our Focus />
+[68] (539,925)<a href='/team' />
+	[69] (539,925)<span >Our Team />
+Portfolio
+Contact
+Building the Future?
+We're looking for visionary founders developing world-changing technologies in cleantech and techbio.
+[70] (864,975)<a href='/contact' />
+	[71] (864,976)<button class='inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-9 px-4 py-2 w-full gap-2'>Get in Touch />
+
+</current_dom>

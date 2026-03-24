@@ -1,0 +1,28 @@
+# Goal Description
+Migrate the Replit-specific backend services (Database, Authentication, and Object Storage) to standard local equivalents so the application can run identically on your local Antigravity environment.
+
+## User Review Required
+> [!IMPORTANT]
+> Since Replit provided some services out-of-the-box that only work in their environment, we need to decide how to replace them locally. Please let me know your preferences:
+> 
+> 1. **Database (PostgreSQL)**: Your code uses Neon Serverless Postgres (`DATABASE_URL`). Do you want to install a local PostgreSQL database, switch to SQLite (zero setup but requires minor code changes), or do you already have a Neon DB connection string we can use?
+> 2. **Authentication (Replit Auth)**: The app uses Replit's built-in OIDC login. To run locally, we need an alternative. I noticed `passport-local` in your dependencies—would you like me to implement standard Email/Password authentication?
+> 3. **Object Storage**: The app uses Replit's Object Storage (which relies on an internal Replit sidecar). For local development, I can rewrite this to simply save uploaded files to a local `uploads/` folder on your machine. Does that sound good?
+
+## Proposed Changes
+
+### Server Configuration
+- **Authentication**: Modify `server/replitAuth.ts` (and relevant parts of `server/routes.ts`) to use a standard authentication strategy based on your choice above.
+- **Object Storage**: Rewrite `server/objectStorage.ts` to use a local filesystem-based storage adapter instead of `@google-cloud/storage`.
+- **Database Connection**: Update `server/db.ts` to connect using a standard `.env` file instead of Replit's automatic environment variables.
+
+### Local Development Setup
+- Remove Replit-specific Vite plugins from `vite.config.ts` and `package.json` (e.g., `@replit/vite-plugin-cartographer`).
+- Create a standard `.env` file to securely hold your local secrets.
+
+## Verification Plan
+### Local Verification
+1. Run `npm install` to ensure all local dependencies resolve correctly without Replit tools.
+2. Start the application using `npm run dev`.
+3. Verify that the app starts successfully without any Replit sidecar connection errors (`127.0.0.1:1106`).
+4. Manually test logging in and uploading a file to confirm the new local systems work identical to the production version.

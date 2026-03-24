@@ -1,0 +1,105 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,143)<div  />
+	[1] (66,44)<a href='/' />
+		[2] (66,44)<img  />
+	[3] (684,44)<a href='/' />
+		[4] (684,44)<span >Home />
+	[5] (741,44)<a href='/focus' />
+		[6] (741,44)<span >Focus />
+	[7] (798,44)<a href='/team' />
+		[8] (798,44)<span >Team />
+	[9] (861,44)<a href='/portfolio' />
+		[10] (861,44)<span >Portfolio />
+	[11] (945,44)<a href='/contact' />
+		[12] (945,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+	Team
+	We have built, scaled & exited
+	businesses.
+	Entrepreneurs
+	with 5 successful exits
+	Operators
+	who scaled cleantech & techbio businesses
+	Investors
+	who actively support visionary founders
+	[13] (68,374)<a href='/team' />
+		[14] (68,376)<button class='inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-9 px-4 py-2 mt-8 gap-2'>Our Team />
+	General Partners
+	[15] (597,171)<div  />
+		[16] (597,171)<div  />
+			[17] (597,119)<div  />
+				[18] (597,119)<span  />
+					[19] (597,119)<span >EK />
+			[20] (597,243)<div  />
+				[21] (597,228)<h3 >Edwin Khoo />
+				[22] (597,258)<p >Click to view more />
+	[23] (753,171)<div  />
+		[24] (753,171)<div  />
+			[25] (753,119)<div  />
+				[26] (753,119)<span  />
+					[27] (753,119)<span >N />
+			[28] (753,243)<div  />
+				[29] (753,228)<h3 >Noel />
+				[30] (753,258)<p >Click to view more />
+	[31] (909,171)<div  />
+		[32] (909,171)<div  />
+			[33] (909,119)<div  />
+				[34] (909,119)<span  />
+					[35] (909,119)<span >SL />
+			[36] (909,243)<div  />
+				[37] (909,228)<h3 >Shen Lee />
+				[38] (909,258)<p >Click to view more />
+	Investment Committee
+	[39] (597,492)<div  />
+		[40] (597,492)<div  />
+			[41] (597,440)<div  />
+				[42] (597,440)<span  />
+					[43] (597,440)<span >A />
+			[44] (597,564)<div  />
+				[45] (597,549)<h3 >A.H. />
+				[46] (597,580)<p >Click to view more />
+	[47] (753,492)<div  />
+		[48] (753,492)<div  />
+			[49] (753,440)<div  />
+				[50] (753,440)<span  />
+					[51] (753,440)<span >G />
+			[52] (753,564)<div  />
+				[53] (753,549)<h3 >G.C. />
+				[54] (753,580)<p >Click to view more />
+	[55] (909,492)<div  />
+		[56] (909,492)<div  />
+			[57] (909,440)<div  />
+				[58] (909,440)<span  />
+					[59] (909,440)<span >G />
+			[60] (909,564)<div  />
+				[61] (909,549)<h3 >G.W. />
+				[62] (909,580)<p >Click to view more />
+	[63] (597,761)<div  />
+		[64] (597,761)<div  />
+			[65] (597,709)<div  />
+				[66] (597,709)<span  />
+					[67] (597,709)<span >L />
+			[68] (597,833)<div  />
+				[69] (597,818)<h3 >L.P. />
+				[70] (597,849)<p >Click to view more />
+	[71] (753,761)<div  />
+		[72] (753,761)<div  />
+			[73] (753,709)<div  />
+				[74] (753,709)<span  />
+					[75] (753,709)<span >R />
+			[76] (753,833)<div  />
+				[77] (753,818)<h3 >R.H. />
+				[78] (753,849)<p >Click to view more />
+	[79] (909,761)<div  />
+		[80] (909,761)<div  />
+			[81] (909,709)<div  />
+				[82] (909,709)<span  />
+					[83] (909,709)<span >W />
+			[84] (909,833)<div  />
+				[85] (909,818)<h3 >W.T. />
+				[86] (909,849)<p >Click to view more />
+	APAC / Special Advisors
+
+</current_dom>

@@ -1,0 +1,15 @@
+# Migration Verification Plan
+
+- [x] Navigate to http://localhost:5000 and verify homepage.
+- [x] Take screenshot of homepage.
+- [ ] Navigate to http://localhost:5000/admin.
+- [ ] Log in with 'admin' / any password.
+- [ ] Verify admin panel 'Pages' tab and take screenshot.
+- [ ] Verify 'Analytics' tab and take screenshot.
+- [ ] Provide summary.
+
+## Findings
+- Homepage loaded successfully and looks as expected.
+- Screenshot: homepage_verification_1773360690213.png
+- Issue: /admin shows "Log In with Replit" button which leads to /api/login, but /api/login returns "Page Not Found".
+- The user instructed to log in with 'admin' and any password, but no such form is visible.

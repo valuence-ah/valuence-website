@@ -1,0 +1,8 @@
+# Task Plan
+- [ ] Navigate to http://localhost:5000/portfolio
+- [ ] Verify company logos are visible (not initials)
+- [ ] Take a screenshot of portfolio cards
+- [ ] Navigate to http://localhost:5000/team
+- [ ] Verify team headshots are visible
+- [ ] Take a screenshot of team section
+- [ ] Final report

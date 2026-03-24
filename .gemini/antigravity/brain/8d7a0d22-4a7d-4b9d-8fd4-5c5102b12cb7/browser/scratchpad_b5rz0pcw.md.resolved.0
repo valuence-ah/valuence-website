@@ -1,0 +1,7 @@
+# Website Migration Verification Plan
+
+- [ ] Navigate to http://localhost:5000 and verify if the website is running.
+- [ ] Go to http://localhost:5000/admin.
+- [ ] Log in with username 'admin' and any password.
+- [ ] Check if the Analytics tab is visible in the admin panel.
+- [ ] Provide a summary of the findings.

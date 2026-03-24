@@ -1,0 +1,106 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,44)<a href='/' />
+	[1] (66,44)<img  />
+[2] (684,44)<a href='/' />
+	[3] (684,44)<span >Home />
+[4] (741,44)<a href='/focus' />
+	[5] (741,44)<span >Focus />
+[6] (798,44)<a href='/team' />
+	[7] (798,44)<span >Team />
+[8] (861,44)<a href='/portfolio' />
+	[9] (861,44)<span >Portfolio />
+[10] (945,44)<a href='/contact' />
+	[11] (945,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+Our Team
+[12] (597,94)<div  />
+	[13] (597,94)<div  />
+		[14] (597,166)<div  />
+			[15] (597,151)<h3 >Edwin Khoo />
+			[16] (597,182)<p >Click to view more />
+[17] (753,94)<div  />
+	[18] (753,94)<div  />
+		[19] (753,166)<div  />
+			[20] (753,151)<h3 >Noel />
+			[21] (753,182)<p >Click to view more />
+[22] (909,94)<div  />
+	[23] (909,94)<div  />
+		[24] (909,166)<div  />
+			[25] (909,151)<h3 >Shen Lee />
+			[26] (909,182)<p >Click to view more />
+[27] (597,363)<div  />
+	[28] (597,363)<div  />
+		[29] (597,311)<div  />
+			[30] (597,311)<span  />
+				[31] (597,311)<img  />
+		[32] (597,435)<div  />
+			[33] (597,420)<h3 >Edwin Khoo />
+			[34] (597,451)<p >Click to view more />
+[35] (753,363)<div  />
+	[36] (753,363)<div  />
+		[37] (753,311)<div  />
+			[38] (753,311)<span  />
+				[39] (753,311)<img  />
+		[40] (753,435)<div  />
+			[41] (753,420)<h3 >Noel />
+			[42] (753,451)<p >Click to view more />
+[43] (909,363)<div  />
+	[44] (909,363)<div  />
+		[45] (909,311)<div  />
+			[46] (909,311)<span  />
+				[47] (909,311)<img  />
+		[48] (909,435)<div  />
+			[49] (909,420)<h3 >Shen Lee />
+			[50] (909,451)<p >Click to view more />
+[51] (597,632)<div  />
+	[52] (597,632)<div  />
+		[53] (597,580)<div  />
+			[54] (597,580)<span  />
+				[55] (597,580)<img  />
+		[56] (597,704)<div  />
+			[57] (597,689)<h3 >Edwin Khoo />
+			[58] (597,720)<p >Click to view more />
+[59] (753,632)<div  />
+	[60] (753,632)<div  />
+		[61] (753,580)<div  />
+			[62] (753,580)<span  />
+				[63] (753,580)<img  />
+		[64] (753,704)<div  />
+			[65] (753,689)<h3 >Noel />
+			[66] (753,720)<p >Click to view more />
+[67] (909,632)<div  />
+	[68] (909,632)<div  />
+		[69] (909,580)<div  />
+			[70] (909,580)<span  />
+				[71] (909,580)<img  />
+		[72] (909,704)<div  />
+			[73] (909,689)<h3 >Shen Lee />
+			[74] (909,720)<p >Click to view more />
+[75] (597,901)<div  />
+	[76] (597,901)<div  />
+		[77] (597,849)<div  />
+			[78] (597,849)<span  />
+				[79] (597,849)<img  />
+		[80] (597,973)<div  />
+			[81] (597,958)<h3 >Edwin Khoo />
+			[82] (597,988)<p >Click to view more />
+[83] (753,901)<div  />
+	[84] (753,901)<div  />
+		[85] (753,849)<div  />
+			[86] (753,849)<span  />
+				[87] (753,849)<img  />
+		[88] (753,973)<div  />
+			[89] (753,958)<h3 >Noel />
+			[90] (753,988)<p >Click to view more />
+[91] (909,901)<div  />
+	[92] (909,901)<div  />
+		[93] (909,849)<div  />
+			[94] (909,849)<span  />
+				[95] (909,849)<img  />
+		[96] (909,973)<div  />
+			[97] (909,958)<h3 >Shen Lee />
+			[98] (909,988)<p >Click to view more />
+
+</current_dom>

@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,44)<a href='/' />
+	[1] (66,44)<img  />
+[2] (684,44)<a href='/' />
+	[3] (684,44)<span >Home />
+[4] (741,44)<a href='/focus' />
+	[5] (741,44)<span >Focus />
+[6] (798,44)<a href='/team' />
+	[7] (798,44)<span >Team />
+[8] (861,44)<a href='/portfolio' />
+	[9] (861,44)<span >Portfolio />
+[10] (945,44)<a href='/contact' />
+	[11] (945,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+Cleantech
+Zero-emission processes and advanced materials that slash waste and cut carbon
+Techbio
+AI-first discovery engines and regenerative platforms for novel therapies
+Global Reach
+North America & Asia - Two ecosystems, one global sandbox
+Pre-Seed to Series A
+Early-stage investments in world-changing technologies
+[12] (68,801)<a href='/team' />
+	[13] (68,802)<button class='inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-9 px-4 py-2 mt-8 gap-2' />
+General Partners
+[14] (597,597)<div  />
+	[15] (597,597)<div  />
+		[16] (597,545)<div  />
+			[17] (597,545)<span  />
+				[18] (597,545)<span  />
+		[19] (597,670)<div  />
+			[20] (597,654)<h3  />
+			[21] (597,685)<p  />
+[22] (753,597)<div  />
+	[23] (753,597)<div  />
+		[24] (753,545)<div  />
+			[25] (753,545)<span  />
+				[26] (753,545)<span  />
+		[27] (753,670)<div  />
+			[28] (753,654)<h3  />
+			[29] (753,685)<p  />
+[30] (909,597)<div  />
+	[31] (909,597)<div  />
+		[32] (909,545)<div  />
+			[33] (909,545)<span  />
+				[34] (909,545)<span  />
+		[35] (909,670)<div  />
+			[36] (909,654)<h3  />
+			[37] (909,685)<p  />
+[38] (597,866)<div  />
+	[39] (597,866)<div  />
+		[40] (597,814)<div  />
+			[41] (597,814)<span  />
+				[42] (597,814)<img  />
+		[43] (597,938)<div  />
+			[44] (597,923)<h3  />
+			[45] (597,954)<p  />
+[46] (753,866)<div  />
+	[47] (753,866)<div  />
+		[48] (753,814)<div  />
+			[49] (753,814)<span  />
+				[50] (753,814)<img  />
+		[51] (753,938)<div  />
+			[52] (753,923)<h3  />
+			[53] (753,954)<p  />
+[54] (909,866)<div  />
+	[55] (909,866)<div  />
+		[56] (909,814)<div  />
+			[57] (909,814)<span  />
+				[58] (909,814)<img  />
+		[59] (909,938)<div  />
+			[60] (909,923)<h3  />
+			[61] (909,954)<p  />
+
+</current_dom>

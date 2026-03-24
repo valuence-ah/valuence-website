@@ -1,0 +1,75 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,44)<a href='/' />
+	[1] (66,44)<img  />
+[2] (684,44)<a href='/' />
+	[3] (684,44)<span >Home />
+[4] (741,44)<a href='/focus' />
+	[5] (741,44)<span >Focus />
+[6] (798,44)<a href='/team' />
+	[7] (798,44)<span >Team />
+[8] (861,44)<a href='/portfolio' />
+	[9] (861,44)<span >Portfolio />
+[10] (945,44)<a href='/contact' />
+	[11] (945,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+General Partners
+[12] (171,295)<div  />
+	[13] (171,295)<div  />
+		[14] (171,212)<div  />
+			[15] (171,212)<span  />
+				[16] (171,212)<span >EK />
+		[17] (171,449)<div  />
+			[18] (171,403)<h3 >Edwin Khoo />
+			[19] (171,434)<p >General Partner />
+			[20] (171,469)<p >Bio coming soon... />
+			[21] (171,495)<p >Click to view more />
+[22] (500,295)<div  />
+	[23] (500,295)<div  />
+		[24] (500,212)<div  />
+			[25] (500,212)<span  />
+				[26] (500,212)<span >N />
+		[27] (500,449)<div  />
+			[28] (500,403)<h3 >Noel />
+			[29] (500,434)<p >General Partner />
+			[30] (500,469)<p >Bio coming soon... />
+			[31] (500,495)<p >Click to view more />
+[32] (829,295)<div  />
+	[33] (829,295)<div  />
+		[34] (829,212)<div  />
+			[35] (829,212)<span  />
+				[36] (829,212)<span >SL />
+		[37] (829,449)<div  />
+			[38] (829,403)<h3 >Shen Lee />
+			[39] (829,434)<p >General Partner />
+			[40] (829,469)<p >Bio coming soon... />
+			[41] (829,495)<p >Click to view more />
+[42] (171,806)<div  />
+	[43] (171,806)<div  />
+		[44] (171,723)<div  />
+			[45] (171,723)<span  />
+				[46] (171,723)<img  />
+		[47] (171,960)<div  />
+			[48] (171,914)<h3 >Edwin Khoo />
+			[49] (171,945)<p >General Partner />
+			[50] (171,980)<p >Bio coming soon... />
+[51] (500,806)<div  />
+	[52] (500,806)<div  />
+		[53] (500,723)<div  />
+			[54] (500,723)<span  />
+				[55] (500,723)<img  />
+		[56] (500,914)<h3 >Noel />
+		[57] (500,945)<p >General Partner />
+		Bio coming soon...
+[58] (829,806)<div  />
+	[59] (829,806)<div  />
+		[60] (829,723)<div  />
+			[61] (829,723)<span  />
+				[62] (829,723)<img  />
+		[63] (829,960)<div  />
+			[64] (829,914)<h3 >Shen Lee />
+			[65] (829,945)<p >General Partner />
+			[66] (829,980)<p >Bio coming soon... />
+
+</current_dom>

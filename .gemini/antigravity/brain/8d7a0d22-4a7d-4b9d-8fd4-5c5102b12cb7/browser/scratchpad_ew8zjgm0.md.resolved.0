@@ -1,0 +1,7 @@
+# Portfolio Logo Verification Plan
+
+- [ ] Navigate to http://localhost:5000
+- [ ] Scroll to the Portfolio section
+- [ ] Verify if Krosslinker, Nabaco, etc. display logos
+- [ ] Take a screenshot of the portfolio section
+- [ ] Report findings

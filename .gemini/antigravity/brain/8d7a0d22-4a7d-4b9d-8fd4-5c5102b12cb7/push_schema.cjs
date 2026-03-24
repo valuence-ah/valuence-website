@@ -1,0 +1,1 @@
+const { spawn } = require('child_process');\r\nconst cp = spawn('npx', ['drizzle-kit', 'push'], { shell: true, stdio: ['pipe', 'inherit', 'inherit'] });\r\ncp.stdin.write('y\\n');\r\ncp.on('close', (code) => {\r\n  console.log('Schema push finished with code ' + code);\r\n  process.exit(code);\r\n});

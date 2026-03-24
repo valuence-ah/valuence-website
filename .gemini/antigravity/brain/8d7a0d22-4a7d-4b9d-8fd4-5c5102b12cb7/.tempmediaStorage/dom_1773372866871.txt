@@ -1,0 +1,112 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,44)<a href='/' />
+	[1] (66,44)<img  />
+[2] (684,44)<a href='/' />
+	[3] (684,44)<span >Home />
+[4] (741,44)<a href='/focus' />
+	[5] (741,44)<span >Focus />
+[6] (798,44)<a href='/team' />
+	[7] (798,44)<span >Team />
+[8] (861,44)<a href='/portfolio' />
+	[9] (861,44)<span >Portfolio />
+[10] (945,44)<a href='/contact' />
+	[11] (945,44)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-8 rounded-md px-3 text-xs'>Contact Us />
+We have built, scaled & exited
+businesses.
+Entrepreneurs
+with 5 successful exits
+Operators
+who scaled cleantech & techbio businesses
+Investors
+who actively support visionary founders
+[12] (68,326)<a href='/team' />
+	[13] (68,328)<button class='inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover-elevate active-elevate-2 bg-primary text-primary-foreground border border-primary-border min-h-9 px-4 py-2 mt-8 gap-2'>Our Team />
+[14] (597,123)<div  />
+	[15] (597,123)<div  />
+		EK
+		[16] (597,195)<div  />
+			[17] (597,180)<h3 >Edwin Khoo />
+			[18] (597,210)<p >Click to view more />
+[19] (753,123)<div  />
+	[20] (753,123)<div  />
+		N
+		[21] (753,195)<div  />
+			[22] (753,180)<h3 >Noel />
+			[23] (753,210)<p >Click to view more />
+[24] (909,123)<div  />
+	[25] (909,123)<div  />
+		SL
+		[26] (909,195)<div  />
+			[27] (909,180)<h3 >Shen Lee />
+			[28] (909,210)<p >Click to view more />
+[29] (597,392)<div  />
+	[30] (597,392)<div  />
+		[31] (597,339)<div  />
+			[32] (597,339)<span  />
+				[33] (597,339)<img  />
+		[34] (597,464)<div  />
+			[35] (597,449)<h3 >Edwin Khoo />
+			[36] (597,479)<p >Click to view more />
+[37] (753,392)<div  />
+	[38] (753,392)<div  />
+		[39] (753,339)<div  />
+			[40] (753,339)<span  />
+				[41] (753,339)<img  />
+		[42] (753,464)<div  />
+			[43] (753,449)<h3 >Noel />
+			[44] (753,479)<p >Click to view more />
+[45] (909,392)<div  />
+	[46] (909,392)<div  />
+		[47] (909,339)<div  />
+			[48] (909,339)<span  />
+				[49] (909,339)<img  />
+		[50] (909,464)<div  />
+			[51] (909,449)<h3 >Shen Lee />
+			[52] (909,479)<p >Click to view more />
+[53] (597,661)<div  />
+	[54] (597,661)<div  />
+		[55] (597,608)<div  />
+			[56] (597,608)<span  />
+				[57] (597,608)<img  />
+		[58] (597,733)<div  />
+			[59] (597,718)<h3 >Edwin Khoo />
+			[60] (597,748)<p >Click to view more />
+[61] (753,661)<div  />
+	[62] (753,661)<div  />
+		[63] (753,608)<div  />
+			[64] (753,608)<span  />
+				[65] (753,608)<img  />
+		[66] (753,733)<div  />
+			[67] (753,718)<h3 >Noel />
+			[68] (753,748)<p >Click to view more />
+[69] (909,661)<div  />
+	[70] (909,661)<div  />
+		[71] (909,608)<div  />
+			[72] (909,608)<span  />
+				[73] (909,608)<img  />
+		[74] (909,733)<div  />
+			[75] (909,718)<h3 >Shen Lee />
+			[76] (909,748)<p >Click to view more />
+[77] (597,930)<div  />
+	[78] (597,930)<div  />
+		[79] (597,877)<div  />
+			[80] (597,877)<span  />
+				[81] (597,877)<img  />
+		[82] (597,987)<h3 >Edwin Khoo />
+[83] (753,930)<div  />
+	[84] (753,930)<div  />
+		[85] (753,878)<div  />
+			[86] (753,878)<span  />
+				[87] (753,878)<img  />
+		[88] (753,987)<h3 >Noel />
+[89] (909,932)<div  />
+	[90] (909,932)<div  />
+		[91] (909,880)<div  />
+			[92] (909,880)<span  />
+				[93] (909,880)<img  />
+		[94] (909,989)<h3  />
+
+</current_dom>
