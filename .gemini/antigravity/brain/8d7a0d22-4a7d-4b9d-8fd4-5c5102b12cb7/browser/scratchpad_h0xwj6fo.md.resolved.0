@@ -1,7 +1,0 @@
-# Verification Checklist
-- [ ] Navigate to http://localhost:5000
-- [ ] Confirm hero video is playing
-- [ ] Confirm Team photos are visible (Edwin, Noel, Shen, etc.)
-- [ ] Confirm Portfolio logos are visible
-- [ ] Verify Team member bio dialog opens
-- [ ] Final confirmation

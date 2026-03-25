@@ -1,9 +1,0 @@
-# Portfolio and Team Verification Plan
-
-- [ ] Navigate to http://localhost:5000/portfolio
-- [ ] Verify company logos are visible (not initials)
-- [ ] Take screenshot of portfolio cards
-- [ ] Navigate to http://localhost:5000/team
-- [ ] Verify team headshots are visible
-- [ ] Take screenshot of team cards
-- [ ] Final summary of findings

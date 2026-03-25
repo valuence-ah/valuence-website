@@ -1,9 +1,0 @@
-# Admin Console Verification Task
-
-- [ ] Navigate to http://localhost:5000/admin
-- [ ] Verify login form (Username/Password)
-- [ ] Log in with admin/admin
-- [ ] Verify Admin Panel header
-- [ ] Verify Analytics tab existence
-- [ ] Capture screenshot of Admin Panel
-- [ ] Capture screenshot of Analytics tab
